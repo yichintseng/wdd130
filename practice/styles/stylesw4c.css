@@ -1,0 +1,54 @@
+body {
+    background-color: pink;
+    width: 40%;
+    margin: 0 auto;
+}
+
+h1 {
+    color:white;
+    text-align: center;
+} 
+
+h1:hover {
+    color: black
+}
+
+.quote, .author {
+    color:white;
+    text-align: center;
+}
+
+.author{
+    font-weight: bold;
+}
+
+ol {
+    font-weight: bold;
+    line-height: 1.5em;
+}
+
+img {
+    display: block;
+    width: 30%;
+    margin: 0 auto;
+}
+
+.secondquote {
+    color:white;
+    text-align: center;
+    font-size: 1.5em;
+    width: 60%;
+    margin: 40px auto;
+}
+
+
+/* footer下方要有空間、字無法置中 */
+
+.footer {
+    text-align: center; 
+}
+
+/*
+* {
+    border: 2px solid blue;
+}
