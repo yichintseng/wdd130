@@ -100,7 +100,7 @@ main section img {
     width: 80px;
 }
 
-.rivers-card, .camping-card, .rapids-card {
+.rivers-cards, .camping-card, .rapids-card {
     margin: 200px 0;
 }
 
@@ -108,7 +108,7 @@ main section img {
     width: 100%;
 }
 
-.rivers-card {
+.rivers-cards {
     grid-column: 2/4;
     grid-row: 2/3;
 }
@@ -313,7 +313,7 @@ footer .social img {
         font-size: 25px;
         color: #6f7364;
     }
-    .rivers-card, .camping-card, .rapids-card { 
+    .rivers-cards, .camping-card, .rapids-card { 
         margin: 50px auto;
         width: 60%;
     }
