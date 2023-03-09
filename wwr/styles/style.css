@@ -235,7 +235,7 @@ footer .social img {
     margin-top: 100px;
 }
 
-.rivers-card2 {
+.rivers-card {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 100px;
