@@ -100,7 +100,7 @@ main section img {
     width: 80px;
 }
 
-.rivers-card, .camping-card, .rapids-card {
+.river-card, .camping-card, .rapids-card {
     margin: 200px 0;
 }
 
@@ -108,7 +108,7 @@ main section img {
     width: 100%;
 }
 
-.rivers-card {
+.river-card {
     grid-column: 2/4;
     grid-row: 2/3;
 }
