@@ -285,6 +285,7 @@ footer .social img {
     font-size: 1.5em;
     padding: 50px;
     line-height: 1.5em;
+    margin-top: 100px;
 }
 
 @media screen and (max-width: 900px) {
